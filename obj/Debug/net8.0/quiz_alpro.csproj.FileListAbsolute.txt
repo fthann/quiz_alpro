@@ -1,0 +1,14 @@
+C:\Users\Rado\quiz_alpro\bin\Debug\net8.0\quiz_alpro.exe
+C:\Users\Rado\quiz_alpro\bin\Debug\net8.0\quiz_alpro.deps.json
+C:\Users\Rado\quiz_alpro\bin\Debug\net8.0\quiz_alpro.runtimeconfig.json
+C:\Users\Rado\quiz_alpro\bin\Debug\net8.0\quiz_alpro.dll
+C:\Users\Rado\quiz_alpro\bin\Debug\net8.0\quiz_alpro.pdb
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.AssemblyInfoInputs.cache
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.AssemblyInfo.cs
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.csproj.CoreCompileInputs.cache
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.dll
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\refint\quiz_alpro.dll
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.pdb
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\quiz_alpro.genruntimeconfig.cache
+C:\Users\Rado\quiz_alpro\obj\Debug\net8.0\ref\quiz_alpro.dll

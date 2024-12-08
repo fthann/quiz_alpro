@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quiz_alpro/1.0.0": {
+        "runtime": {
+          "quiz_alpro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quiz_alpro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
